@@ -49,6 +49,7 @@ Examples: Visual Studio, IntelliJ IDEA, and Eclipse.
 Version Control Systems (VCS)
 Importance: VCS allows teams to track changes, manage code versions, and collaborate effectively by merging contributions and reverting to previous versions if needed.
 Examples: Git (with platforms like GitHub, GitLab), Subversion (SVN)
+
 8.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Managing Complexity
 Challenge: Large codebases and intricate requirements can make systems difficult to manage and understand.
